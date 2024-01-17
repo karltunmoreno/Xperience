@@ -1,36 +1,47 @@
 # Xperience
 
-JavaScript - UX Design - Development mobile responsive web site.
+JavaScript - UX Design Agency Services Site - Development mobile responsive web site.
+____________________________________________________________________________________________
 
+_____________________________________________________________________________________________
+# Project Visual 😎:
+![Project-picture]()
+
+
+________________________________________________________________________________________________
+
+## What was done.
+
+In this application excercise the following technology was used.
+
+    1.HTML elements, attributes, and properties
+    2.CSS class selectors
+    3.JavaScript objects
+    4.JavaScript functions
+    4.Web Storage API
+    5. The window object
+    6.Git and GitHub
+
+________________________________________________________________________________________________________________________________________________________
+
+## Technologies In Practice :
+  
+  
 TECHNOLOGY USED:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -44,6 +55,20 @@ TECHNOLOGY USED:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
----
+     
+_______________________________________________________________________________________________________________________________________________________
 
+# Work Completed
+Building a website with HTML & CSS. Work included:
+
+- [x] HTML outlined, used semantic HTML
+- [x] CSS added in hierarchical fashion, to meet design requiremetns
+- [x] Form field added
+- [x] Comments added in index.html and .css files for clarity around structure and function 
+- [x] SEO + accessibility factors added: Meta Description, Meta Keywords, Title Tags, image alt text. 
+##
+_____________________________________________________________________________________________________________
+
+
+___________________________________________________________________________________________________
 Other credits: Hasthemes libraries
