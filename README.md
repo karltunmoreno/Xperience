@@ -6,8 +6,10 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 # Project Visual 😎:
 
+![Ss](https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_800/0/1705527310618?e=1709769600&v=beta&t=jrL7IyyYorLiZAkqaIqf1Km_OJNKEBVw3b8yLiGrBBs)
 
-![(https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_800/0/1705527310618?e=1709769600&v=beta&t=jrL7IyyYorLiZAkqaIqf1Km_OJNKEBVw3b8yLiGrBBs
+
+
 ________________________________________________________________________________________________
 
 ## What was done.
