@@ -5,9 +5,11 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 # Project Visual 😎:
-![Project-picture]()
+
+![Ss](https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_800/0/1705527310618?e=1709769600&v=beta&t=jrL7IyyYorLiZAkqaIqf1Km_OJNKEBVw3b8yLiGrBBs)
 
 
+<p align="center"> :octocat: <b><a href="https://karltunmoreno.github.io/Xperience/"> GO TO MAXIMO'S PIZZA </a>
 ________________________________________________________________________________________________
 
 ## What was done.
@@ -55,7 +57,7 @@ TECHNOLOGY USED:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-     
+Additional credit: Used Hasthemes JavaSCript and Bootstrap Libraries for further integration.     
 _______________________________________________________________________________________________________________________________________________________
 
 # Work Completed
@@ -70,5 +72,4 @@ Building a website with HTML & CSS. Work included:
 _____________________________________________________________________________________________________________
 
 
-___________________________________________________________________________________________________
-Other credits: Hasthemes libraries
+______________________________________________________________________________________________
