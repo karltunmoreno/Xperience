@@ -6,10 +6,10 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________
 # Project Visual 😎:
 
-![Ss](https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_800/0/1705527310618?e=1709769600&v=beta&t=jrL7IyyYorLiZAkqaIqf1Km_OJNKEBVw3b8yLiGrBBs)
+![Ss](https://media.licdn.com/dms/image/D5622AQFmKE_siqpEVQ/feedshare-shrink_2048_1536/0/1705527310626?e=1717027200&v=beta&t=CYHfGy1PzFz3Smnc_Q0oMoWIEZsnzVTltMJSZA6Jv-Q)
 
 
-<p align="center"> :octocat: <b><a href="https://karltunmoreno.github.io/Xperience/"> GO TO MAXIMO'S PIZZA </a>
+<p align="center">  <b><a href="https://karltunmoreno.github.io/Xperience/"> GO TO MAXIMO'S PIZZA </a>
 ________________________________________________________________________________________________
 
 ## What was done.
